@@ -1,5 +1,5 @@
 # 🛡️ linux-security-mini-check
-Um mini scanner de segurança para Linux — rápido, simples e útil.  
+Um mini scanner de segurança para Linux, rápido, simples e útil.  
 Ideal para sysadmins, SOC, DevOps e engenheiros Linux que querem verificar o básico em segundos.
 
 ---
